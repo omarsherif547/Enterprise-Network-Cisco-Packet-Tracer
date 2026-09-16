@@ -10,7 +10,7 @@ The design demonstrates routing, switching, VLAN segmentation, VLSM subnetting, 
 
 ## 🏗️ Network Architecture
 
-The topology contains:
+The topology contain:
 
 - **3 Buildings**
 - **1 Central Router**
